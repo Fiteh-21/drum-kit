@@ -5,12 +5,6 @@ This project focuses on **DOM manipulation**, **event listeners**, and **higher-
 
 ---
 
-## 🚀 Live Demo
-
-👉 [Insert your GitHub Pages link here]
-
----
-
 ## 🛠️ Features
 
 - **Mouse Click Interaction**  
